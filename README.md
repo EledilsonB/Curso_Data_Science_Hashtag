@@ -1,4 +1,4 @@
-# Titanic - Curso de Ciência de Dados | Hashtag Programação
+# Curso de Ciência de Dados | Hashtag Programação
 
 Projeto desenvolvido durante o curso de Ciência de Dados da **Hashtag Programação**, utilizando o clássico dataset do **Titanic** (Kaggle).
 
